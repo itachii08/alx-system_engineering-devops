@@ -1,0 +1,4 @@
+#!/bin/bash
+#ifndef
+   touch ls_cwd_content
+#endif
