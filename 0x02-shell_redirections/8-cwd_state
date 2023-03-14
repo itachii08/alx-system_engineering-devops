@@ -1,4 +1,2 @@
 #!/bin/bash
-#ifndef ls_cwd_content
-   ls -la > ls_cwd_content
-#endif
+ ls -la > ls_cwd_content
