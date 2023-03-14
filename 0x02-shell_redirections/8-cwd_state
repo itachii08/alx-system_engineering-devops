@@ -1,4 +1,4 @@
 #!/bin/bash
-#ifndef
-   touch ls_cwd_content
+#ifndef ls_cwd_content
+   ls -la > ls_cwd_content
 #endif
